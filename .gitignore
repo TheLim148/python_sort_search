@@ -3,7 +3,12 @@ __pycache__/
 *.py[cod]
 *.so
 
+# Env
 .Python
 env/
 .venv/
 venv
+
+# Office
+*.docx
+*.doc
